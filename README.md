@@ -119,12 +119,13 @@ I'm Hitesh Gupta, a data enthusiast with a background in Applied Mathematics and
 If you're looking for a data analyst who can turn numbers into insights (and maybe even a few good jokes), let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/hiteshanalytics) or drop me a line at [Email](mailto:hitesh.hg.gupta@gmail.com).
 
 Looking forward to making data magic happen,
+
 Your Future Data Analyst (with a dash of wit) ✨
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshGupta23&show_icons=true&theme=radical" height="200" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HiteshGupta23&show_icons=true&theme=radical" height="200" style="margin-right: 50px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGupta23&layout=compact&theme=radical" height="200"/>
 </p>
 
