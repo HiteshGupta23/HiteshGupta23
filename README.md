@@ -7,7 +7,7 @@
 </h1>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mavenanalytics.io/profile/hitesh-gupta) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshanalytics) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/HiteshG_/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hitesh_hg_gupta) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hitesh.hg.gupta@gmail.com)](mailto:hitesh.hg.gupta@gmail.com)    <p align="right"> <img src="https://komarev.com/ghpvc/?username=HiteshGupta23&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
+[![Portfolio](https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000)](https://mavenanalytics.io/profile/hitesh-gupta) [![Linkedin Badge](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/hiteshanalytics) [![Leetcode](https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/HiteshG_/) [![HackerRank](https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000)](https://www.hackerrank.com/profile/hitesh_hg_gupta) [![Gmail Badge](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000&link=mailto:hitesh.hg.gupta@gmail.com)](mailto:hitesh.hg.gupta@gmail.com) [![Medium](https://img.icons8.com/?size=100&id=110611&format=png&color=000000)](https://numeralyzeai.medium.com/)    <p align="right"> <img src="https://komarev.com/ghpvc/?username=HiteshGupta23&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -83,7 +83,7 @@ Hi 👋, I’m Hitesh Gupta, Aspiring Data Analyst From India 🇮🇳
 
 ##  About Me:
 
-I'm Hitesh Gupta, a data enthusiast with a background in Applied Mathematics and a growing passion for turning numbers into narratives. I'm currently navigating the world of analytics — from SQL and Python to Power BI — and sharing what I learn along the way. Whether it's building dashboards or solving real-world problems with data, I'm here for the curiosity, the challenge, and the occasional “aha!” moment.
+I'm Hitesh Gupta, a data enthusiast with a background in Applied Mathematics and a growing passion for turning numbers into narratives. I'm currently navigating the world of analytics from SQL and Python to Power BI and sharing what I learn along the way. Whether it's building dashboards or solving real-world problems with data, I'm here for the curiosity, the challenge, and the occasional “aha!” moment.
 
 ### 🌟 Here's What I Do Best
 
@@ -124,6 +124,12 @@ Your Future Data Analyst (with a dash of wit) ✨
 <h5>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=25&v=true&height=60&duration=5500&lines=Hope+You+Enjoyed+Exploring!+🧭;+Let's+Connect+and+Create!+🔗+🛠️&color=FFDD57" />
 </h5>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20You%20🤝🏼!&height=100&section=footer"/>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake-dark.svg" />
