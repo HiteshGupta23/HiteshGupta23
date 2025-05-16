@@ -132,6 +132,12 @@ Your Future Data Analyst (with a dash of wit) ✨
 
 ---
 
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiteshGupta23&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGupta23&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HiteshGupta23&theme=github-compact)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake-dark.svg" />
