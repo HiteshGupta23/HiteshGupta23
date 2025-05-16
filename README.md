@@ -7,7 +7,7 @@
 </h1>
 
 
-[![Portfolio](https://img.icons8.com/?size=70&id=LoyAjcvVKv1K&format=png&color=000000)](https://mavenanalytics.io/profile/hitesh-gupta) [![Linkedin Badge](https://img.icons8.com/?size=70&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/hiteshanalytics) [![Leetcode](https://img.icons8.com/?size=70&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/HiteshG_/) [![HackerRank](https://img.icons8.com/?size=70&id=h5EUmNCXhSH0&format=png&color=000000)](https://www.hackerrank.com/profile/hitesh_hg_gupta) [![Gmail Badge](https://img.icons8.com/?size=70&id=qyRpAggnV0zH&format=png&color=000000&link=mailto:hitesh.hg.gupta@gmail.com)](mailto:hitesh.hg.gupta@gmail.com) [![Medium](https://img.icons8.com/?size=70&id=SUD9uP5qL6DZ&format=png&color=000000)](https://numeralyzeai.medium.com/)    <p align="right"> <img src="https://komarev.com/ghpvc/?username=HiteshGupta23&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
+[![Portfolio](https://img.icons8.com/?size=70&id=LoyAjcvVKv1K&format=png&color=000000)](https://mavenanalytics.io/profile/hitesh-gupta) [![Linkedin Badge](https://img.icons8.com/?size=70&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/hiteshanalytics) [![Leetcode](https://img.icons8.com/?size=70&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/HiteshG_/) [![HackerRank](https://img.icons8.com/?size=70&id=h5EUmNCXhSH0&format=png&color=000000)](https://www.hackerrank.com/profile/hitesh_hg_gupta) [![Gmail Badge](https://img.icons8.com/?size=70&id=qyRpAggnV0zH&format=png&color=000000&link=mailto:hitesh.hg.gupta@gmail.com)](mailto:hitesh.hg.gupta@gmail.com) [![Medium](https://img.icons8.com/?size=70&id=mPWdHrPsWSjV&format=png&color=000000)](https://numeralyzeai.medium.com/)    <p align="right"> <img src="https://komarev.com/ghpvc/?username=HiteshGupta23&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -116,10 +116,12 @@ I'm Hitesh Gupta, a data enthusiast with a background in Applied Mathematics and
 
 
 
+
 If you're looking for a data analyst who can turn numbers into insights (and maybe even a few good jokes), let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/hiteshanalytics) or drop me a line at [Email](mailto:hitesh.hg.gupta@gmail.com).
 
 Looking forward to making data magic happen,
 Your Future Data Analyst (with a dash of wit) ✨
+
 
 <h5>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=25&v=true&height=60&duration=5500&lines=Hope+You+Enjoyed+Exploring!+🧭;+Let's+Connect+and+Create!+🔗+🛠️&color=FFDD57" />
