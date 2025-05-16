@@ -132,7 +132,7 @@ Your Future Data Analyst (with a dash of wit) ✨
 
 ---
 
-![GitHub Snake](https://username.github.io/HiteshGupta23/output/github-snake.gif)
+![GitHub Snake](https://HiteshGupta23.github.io/HiteshGupta23/output/github-snake.gif)
 
 
 <picture>
