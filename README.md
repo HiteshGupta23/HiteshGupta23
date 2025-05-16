@@ -132,8 +132,6 @@ Your Future Data Analyst (with a dash of wit) ✨
 
 ---
 
-![GitHub Snake](https://HiteshGupta23.github.io/HiteshGupta23/output/github-snake.gif)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake-dark.svg" />
