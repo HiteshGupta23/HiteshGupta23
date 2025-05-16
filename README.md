@@ -136,7 +136,7 @@ Your Future Data Analyst (with a dash of wit) ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGupta23&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HiteshGupta23&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HiteshGupta23&theme=github-compact)
 
 
 <picture>
