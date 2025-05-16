@@ -121,6 +121,14 @@ If you're looking for a data analyst who can turn numbers into insights (and may
 Looking forward to making data magic happen,
 Your Future Data Analyst (with a dash of wit) ✨
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiteshGupta23&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGupta23&layout=compact&theme=radical" height="150"/>
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HiteshGupta23&theme=github-compact)
 
 <h5>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=25&v=true&height=60&duration=5500&lines=Hope+You+Enjoyed+Exploring!+🧭;+Let's+Connect+and+Create!+🔗+🛠️&color=FFDD57" />
@@ -129,16 +137,7 @@ Your Future Data Analyst (with a dash of wit) ✨
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thank%20You%20🤝🏼!&height=100&section=footer"/>
 </p>
-
 ---
-
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiteshGupta23&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGupta23&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HiteshGupta23&theme=github-compact)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake.svg" />
