@@ -114,8 +114,7 @@ I'm Hitesh Gupta, a data enthusiast with a background in Applied Mathematics and
 
 - 🧰 Other Tools – Google Sheets, Google Docs, PowerPoint, and Canva for data reporting and presentation
 
-
-
+---
 
 If you're looking for a data analyst who can turn numbers into insights (and maybe even a few good jokes), let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/hiteshanalytics) or drop me a line at [Email](mailto:hitesh.hg.gupta@gmail.com).
 
@@ -132,6 +131,9 @@ Your Future Data Analyst (with a dash of wit) ✨
 </p>
 
 ---
+
+![GitHub Snake](https://username.github.io/HiteshGupta23/output/github-snake.gif)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/output/github-snake-dark.svg" />
