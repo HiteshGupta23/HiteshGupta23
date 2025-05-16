@@ -11,6 +11,26 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
+<img align="right" src="https://github.com/HiteshGupta23/HiteshGupta23/blob/main/assets/team_analysis.gif" width="400" height="340">
+
+<h3>
+Hi 👋, I’m Hitesh Gupta, Aspiring Data Analyst India 🇮🇳
+</h3>
+
+📊 Exploring how raw data turns into real insights — and learning to make that process smoother every day.
+
+🌱 Currently building skills in Power Apps and Power Automate to automate the boring stuff.
+
+💡 I enjoy creating reports and dashboards that make people go, “Ohhh, now I get it.”
+
+🚀 Always looking for ways to solve practical problems using Python, SQL, and storytelling with data.
+
+💬 I write about my data journey to help others avoid the same confusion I had at the start.
+
+<br>
+
+
+
 <!--
 **HiteshGupta23/HiteshGupta23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
