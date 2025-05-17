@@ -11,7 +11,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<img align="right" src="https://github.com/HiteshGupta23/HiteshGupta23/blob/main/assets/analytics-ppt.gif" width="400" height="340">
+<img align="right" src="https://raw.githubusercontent.com/HiteshGupta23/HiteshGupta23/main/assets/analytics-ppt.gif" width="400" height="340">
 
 <h3>
 Hi 👋, I’m Hitesh Gupta, Aspiring Data Analyst From India 🇮🇳
