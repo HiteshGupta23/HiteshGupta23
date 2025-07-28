@@ -74,8 +74,7 @@ Hi 👋, I’m Hitesh Gupta, Aspiring Data Analyst From India 🇮🇳
     </a>
   <a>
 <!--         Figma -->
-        <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="55" height="55"/>
-    </a>
+        
 </p>
 
 <br>
