@@ -78,8 +78,8 @@ I sit at the intersection of **business strategy and technical execution**. My w
 ### 🧠 AI Productivity Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
+![Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Copilot](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 ---
 
 ## 🌟 What I Do Best
